@@ -1,9 +1,9 @@
 \\Mac\Home\Documents\Redoak\Redoak.Core\bin\Release\netcoreapp2.0\Redoak.Core.deps.json
 \\Mac\Home\Documents\Redoak\Redoak.Core\bin\Release\netcoreapp2.0\Redoak.Core.dll
 \\Mac\Home\Documents\Redoak\Redoak.Core\bin\Release\netcoreapp2.0\Redoak.Core.pdb
-\\Mac\Home\Documents\Redoak\Redoak.Core\obj\Release\netcoreapp2.0\Redoak.Core.csprojResolveAssemblyReference.cache
 \\Mac\Home\Documents\Redoak\Redoak.Core\obj\Release\netcoreapp2.0\Redoak.Core.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\Redoak\Redoak.Core\obj\Release\netcoreapp2.0\Redoak.Core.AssemblyInfoInputs.cache
 \\Mac\Home\Documents\Redoak\Redoak.Core\obj\Release\netcoreapp2.0\Redoak.Core.AssemblyInfo.cs
 \\Mac\Home\Documents\Redoak\Redoak.Core\obj\Release\netcoreapp2.0\Redoak.Core.dll
 \\Mac\Home\Documents\Redoak\Redoak.Core\obj\Release\netcoreapp2.0\Redoak.Core.pdb
+\\Mac\Home\Documents\Redoak\Redoak.Core\obj\Release\netcoreapp2.0\Redoak.Core.csprojResolveAssemblyReference.cache
